@@ -1,1 +1,2 @@
 # jsuno
+console.log
